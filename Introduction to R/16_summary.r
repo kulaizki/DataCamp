@@ -8,4 +8,4 @@ factor_survey_vector
 summary(survey_vector)
 
 # Generate summary for factor_survey_vector
-summary(factor_survey_vector)
+summary(factor_survey_vector)   
